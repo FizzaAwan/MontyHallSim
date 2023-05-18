@@ -1,4 +1,3 @@
-//Afham Bashir. Monty Hall Game. 1.23.2020. 
 #include "monty.h"  
 #include <cmath> 
 #include <cstdlib>
